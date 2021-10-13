@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarScreen", "RadarScreen\RadarScreen.csproj", "{A24A171E-D8DB-4381-9A85-5AD30CE3AC6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24A171E-D8DB-4381-9A85-5AD30CE3AC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24A171E-D8DB-4381-9A85-5AD30CE3AC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24A171E-D8DB-4381-9A85-5AD30CE3AC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24A171E-D8DB-4381-9A85-5AD30CE3AC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48659293-BD98-4D9B-BBA3-3124B59AE714}
+	EndGlobalSection
+EndGlobal
